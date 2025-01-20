@@ -1,0 +1,11 @@
+tar cjf archive.tar.bz2 testTarFolder/
+
+#install cpan, modules perl
+cpanm ADD::Simple
+
+#quickly append text to a file from cmd.
+>>, ??, | -a?
+
+#FEATURE:req: reverse the outputs of the last command. ie usually triples
+mv index01.html indexP.pl  =>reverse
+

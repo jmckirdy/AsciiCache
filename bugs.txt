@@ -1,0 +1,42 @@
+  ::KNOWN BUGS::
+
+01-18
+bug: in <nav>; coding, bash, python links -> the <h1> not working.
+
+01-18
+bug: need all ascii <h1>'s working! 
+
+01-18
+bug: in <nav>, <h1> 'BBS Files' not linked to right file; it's a .txt file, 
+
+01-18
+bug: gif part pulls in info from 01_generateImg.php file! also the array is incomplete, even trace that code back to -> the fact that the old php that did that functionality is unused somewhere in index.php and need to be deleted.
+
+01-18
+bug:show no bullet in <ul><li>. GOTO: related class.
+
+01-18
+b:
+bug: some <h1>BBS Files links to subpages are dead. need to upload .tar.gz files accordingly.
+
+01-18
+feature: css border for gif, so that reduces the scroll-around shit
+
+!!! 01-18 !!!
+feature: well u should scp down to Linux OS, then that's backup one prefferable on red stick.!!
+
+*move backup to windows also, then do a giHub initial request. assaaapp!
+**BONUS -because it will make development easier as u switch back to VS Code on Windows. 
+*In near future practice VS Code env. setup on Linux Comp. too, since windowsComp is in bad shape.
+(fyi) -Vim is kinda annoying compared to autocomplete extentions on VSCode.
+
+**Print out the backed up code. and edit, with red pen then retype with indents removed.
+
+
+
+
+
+
+
+
+

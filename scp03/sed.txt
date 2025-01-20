@@ -1,0 +1,54 @@
+>  is an operator, basically saves the output of the last/curr command to a file
+
+
+sed -n 1~2p
+
+
+sed -n 1~2p -f umbrella > sedTest
+
+cut | sort
+
+du -hd1  disk usage harddrive1
+
+tar cf archive.tar my_files_dir
+means: tape archive , create an archive, put in a file, name_of_file, directory_of_files_2b_archived
+
+tar flags:
+tf
+look in
+
+xf
+extract
+
+eg:
+tar -xf archive.tar -C Downloads/ 
+or (xzf) for archive.tar.gz
+
+flags, common compression algos
+j
+b zip2
+
+z
+gzip
+
+gentoo doesnt have: zip, download later with portage or whatever
+zip is cross platform friendly
+
+
+
+GOOD SCP:
+scp -r C:\Users\jjmck\Desktop\claim\scp02\ root@172.232.168.70:/root/testing/
+
+info about d.struct -> inode
+inode is in table stores disk info
+tracked by filesystem
+
+'magic number' = truth about file
+to find the 'magic number', use file command to read the magic number. that represents what the file is really all about. eg: it's metadata.
+
+use file command
+file file_name
+
+/etc/local.d -has startup scripts.
+
+---

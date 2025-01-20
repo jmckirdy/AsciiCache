@@ -1,0 +1,9 @@
+Compression results for file1.txt:
+Original size: 429056 bytes
+gzip compressed size: 429154 bytes
+bzip2 compressed size: 431417 bytes
+
+Compression results for file2.txt:
+Original size: 230400 bytes
+gzip compressed size: 230468 bytes
+bzip2 compressed size: 231838 bytes

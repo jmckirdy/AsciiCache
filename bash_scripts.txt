@@ -1,0 +1,86 @@
+
+:::::::::          :::          ::::::::      :::    :::
+:+:    :+:       :+: :+:       :+:    :+:     :+:    :+:
++:+    +:+      +:+   +:+      +:+            +:+    +:+
++#++:++#+      +#++:++#++:     +#++:++#++     +#++:++#++
++#+    +#+     +#+     +#+            +#+     +#+    +#+
+#+#    #+#     #+#     #+#     #+#    #+#     #+#    #+#
+#########      ###     ###      ########      ###    ###
+
+--=---=--=---=--=---=--=---=--=---=--=---=--=---=--=---=
+
+
+~ in-browser: type ctrl+f to find, then,
+~ search for header names (ones after ###...), tag names, etc.
+
+
+#sed -n 1~2p
+##!
+
+#sed -n 1~2p -f umbrella > sedTest
+##!
+
+#cut | sort
+##!
+
+#du -hd1  
+##! disk usage harddrive1
+
+
+################################# tar
+
+#tar cf archive.tar my_files_dir
+##! create archive, that's a file, named archive.tar, in directory
+
+##! flags:
+#tar tf    
+##! look in file
+
+#tar xf    
+##! extract file
+
+##! examples:
+#tar xf archive.tar -C Downloads/ 
+##! or xzf for archive.tar.gz
+
+
+################################# bash, variables
+
+##! 'hello world' program with variables
+#!/bin/bash
+provider="Hostinger"
+echo 'The best hosting provider is $provider'
+echo "The best hosting provider is $provider"
+
+# the shebang at the top tells the OS to use the bash interpreter
+# as the command line interpreter
+# creates, and echoes a variable
+
+# create a file called read.sh, save below
+#!/bin/bash
+echo "What is your age?"
+read age
+echo "Wow, you look younger than $age years old"
+
+
+################################# sqlite, SELECT, compression
+
+SELECT name, (100.0*length(rawdata))/sz FROM zip ORDER BY 2;
+
+# this line shows the compression efficiency (expressed as size of the compressed content, relative to uncompressed file size) for all files in the zip archive, sorted by most compressed data to least compressed.
+
+# make an archival copy of a database:
+sqlite3 ex1 .dump | gzip -c >ex1.dump.gz
+
+
+################################
+
+# take stdout of ls, 1 item per line, save to filename.txt
+ls -1 > filename.txt
+
+################################
+
+#somesheet
+apropos cat > filename.txt
+
+

@@ -1,0 +1,33 @@
+:::::::::          :::          ::::::::      :::    :::
+:+:    :+:       :+: :+:       :+:    :+:     :+:    :+:
++:+    +:+      +:+   +:+      +:+            +:+    +:+
++#++:++#+      +#++:++#++:     +#++:++#++     +#++:++#++
++#+    +#+     +#+     +#+            +#+     +#+    +#+
+#+#    #+#     #+#     #+#     #+#    #+#     #+#    #+#
+#########      ###     ###      ########      ###    ###
+
+alligator2
+
+
+
+
+BBBBBBBBBBBBBBBBB                                                     hhhhhhh             
+B::::::::::::::::B                                                    h:::::h             
+B::::::BBBBBB:::::B                                                   h:::::h             
+BB:::::B     B:::::B                                                  h:::::h             
+  B::::B     B:::::B       aaaaaaaaaaaaa            ssssssssss         h::::h hhhhh       
+  B::::B     B:::::B       a::::::::::::a         ss::::::::::s        h::::hh:::::hhh    
+  B::::BBBBBB:::::B        aaaaaaaaa:::::a      ss:::::::::::::s       h::::::::::::::hh  
+  B:::::::::::::BB                  a::::a      s::::::ssss:::::s      h:::::::hhh::::::h 
+  B::::BBBBBB:::::B          aaaaaaa:::::a       s:::::s  ssssss       h::::::h   h::::::h
+  B::::B     B:::::B       aa::::::::::::a         s::::::s            h:::::h     h:::::h
+  B::::B     B:::::B      a::::aaaa::::::a            s::::::s         h:::::h     h:::::h
+  B::::B     B:::::B     a::::a    a:::::a      ssssss   s:::::s       h:::::h     h:::::h
+BB:::::BBBBBB::::::B     a::::a    a:::::a      s:::::ssss::::::s      h:::::h     h:::::h
+B:::::::::::::::::B      a:::::aaaa::::::a      s::::::::::::::s       h:::::h     h:::::h
+B::::::::::::::::B        a::::::::::aa:::a      s:::::::::::ss        h:::::h     h:::::h
+BBBBBBBBBBBBBBBBB          aaaaaaaaaa  aaaa       sssssssssss          hhhhhhh     hhhhhhh
+                                                                                          
+Doh                                                                                          
+                                                                                          
+                                                                                          

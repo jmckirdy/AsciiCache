@@ -1,0 +1,41 @@
+example 1:
+MSG LEFT BY: RICH NUTS
+POSTED: 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$ IF YOU'RE INTERESTED IN BUSINESS OR $
+$ UTILITIES SOFTWARE, OR YOU NEED     $
+$ PROGRAMMING HELP, THEN THIS IS THE  $
+$ RIGHT PLACE.  WE HAVE ACCESS TO ALL $
+$ MAJOR BUSINESS PROGRAMS AND OTHER   $
+$ TYPES OF APPLICATIONS SOFTWARE, AND $
+$ WE ARE ALSO EXPERT PROGRAMMERS.     $
+$ WE DO, HOWEVER, NEED SOME OF THE    $
+$ NEWER ENTERTAINMENT PROGRAMS.  IF   $
+$ YOU'RE WILLING TO TRADE SEND E-MAIL $
+$ EITHER ON THIS BOARD OR SHERWOOD    $
+$ FOREST // TO RICH NUTS.             $
+$                                     $
+$                         LATER-      $
+$                         $$$$$$      $
+$                         $RICH$      $
+$                         $NUTS$      $
+$                         $$$$$$      $
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+(1-14, LAST=13, QUIT=Q) READ MSG.#
+
+
+
+E-MAIL TO KEY MASTER.I'LL GET IN TOUCH WITH YOU.
+BE SURE TO LEAVE A LISTOF YOUR WARES ALSO.
+APPLE CATS ONLY!!I ONLY TRADE IN BELL 202
+ 
+          THE KEYMASTER
+
+(1-14, LAST=14, QUIT=Q) READ MSG.#Q
+
+[T] [R] [P] [Z] [E] [Q] [?] --->***
+
+formatting doesn't work in Notepad,
+(but *DOES work in the terminal)
